@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(name="ivav",
-      version="0.0.1",
+      version="0.0.2",
       description="A quantum computer simulator",
       py_modules=["index_view"],
       package_dir={"": "ivav"},

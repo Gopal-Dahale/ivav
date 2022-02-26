@@ -32,3 +32,7 @@ To run tests, run the following command in your virutalenv
 pip install -e .[dev]
 pytest
 ```
+
+<!-- python setup.py bdist_wheel sdist -->
+<!-- Change version number -->
+<!-- twine upload --skip-existing dist/* --verbose -->
