@@ -3,7 +3,9 @@
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
+main.py
 test
+.vscode
 __pycache__/
 *.py[cod]
 *$py.class

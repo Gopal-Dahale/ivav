@@ -1,3 +1,6 @@
+"""Controlled Not gate"""
+
+
 def cx(control, target, vector, n):
     num = 2**(n - 2)
     pos1 = ['0'] * n

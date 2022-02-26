@@ -1,3 +1,6 @@
+"""Hadamard Gate"""
+
+
 def hadamard_gate(index, vector, size):
     start = 0
     end = 2**index

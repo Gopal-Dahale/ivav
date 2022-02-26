@@ -1,3 +1,6 @@
+"""Controlled Contrelled Not gate"""
+
+
 def ccx(control1, control2, target, vector, n):
     num = 2**(n - 3)
     pos1 = ['0'] * n
