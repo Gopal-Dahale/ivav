@@ -14,6 +14,7 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    extras_require={"dev": ["pytest>=7.0.1"]},
     long_description=long_description,
     long_description_content_type="text/markdown",
 )
