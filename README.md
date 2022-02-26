@@ -1,6 +1,8 @@
 # Index view of Amplitude Vectors
 
-ivav is tool to simulate quantum circuit using indices of the amplitude vectors. ivav is motivated from [Bernstein’s Invited Talk at Indocrypt 2021](https://cr.yp.to/talks.html) and Dr. Dhiman Saha who taught [CS614: Quantum Symmetric-Key Cryptanalysis](https://www.iitbhilai.ac.in/index.php?pid=dhiman).
+ivav is tool to simulate quantum circuit using indices of the amplitude vectors. ivav is motivated from [Bernstein’s Invited Talk at Indocrypt 2021](https://cr.yp.to/talks.html).
+
+<!-- and Dr. Dhiman Saha who taught [CS614: Quantum Symmetric-Key Cryptanalysis](https://www.iitbhilai.ac.in/index.php?pid=dhiman). -->
 
 # Getting Started
 
