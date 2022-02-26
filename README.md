@@ -21,3 +21,12 @@ pip install -e .
 ```
 pip install ivav
 ```
+
+# Testing
+
+To run tests, run the following command in your virutalenv
+
+```
+pip install -e .[dev]
+pytest
+```
