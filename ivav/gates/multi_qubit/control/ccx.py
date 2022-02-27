@@ -7,7 +7,7 @@ def ccx(control1, control2, target, vector, n):
     num = 2**(n - 3)
     pos1 = ['0'] * n
     for i in range(num):
-        k = np.binary_repr(i, n - 2)
+        k = np.binary_repr(i, n - 3)
         m = 0
         for j in range(n):
             if j == control1 or j == control2:
