@@ -1,11 +1,13 @@
 """Controlled Not gate"""
 
+import numpy as np
+
 
 def cx(control, target, vector, n):
     num = 2**(n - 2)
     pos1 = ['0'] * n
     for i in range(num):
-        k = bin(i)[2:]
+        k = np.binary_repr(i, n - 2)
         m = 0
         for j in range(n):
             if j == control:
